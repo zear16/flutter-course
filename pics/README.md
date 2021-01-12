@@ -17,3 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Generate code
 - [Creating model classes the json_serializable way](https://flutter.dev/docs/development/data-and-backend/json#creating-model-classes-the-json_serializable-way)
+
+```
+flutter pub run build_runner build 
+```
